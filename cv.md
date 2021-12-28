@@ -26,6 +26,13 @@ while (i < 3) { // выводит 0, затем 1, затем 2
   i++;
 }
 ```
-6. ## previous work 6
+6. ## previous experience 6   
+Head of Geodetic Support Department in army.
 7. ## Education 7
+* Belorusian State University
+* HTML&CSS course by UDEMY
+* JS and React course by UDEMY
 8. ### My English level 8
+B2 English level according to EFSET standard:
+-------
+https://www.efset.org/cert/S2iwXJ
