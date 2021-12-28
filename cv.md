@@ -5,8 +5,8 @@
 
 
 2. ## My contacts 
-*email: mil.grof@mail.ru
-*tel. +375298766003
+* email: mil.grof@mail.ru
+* tel. +375298766003
 
 
 3. ## About myself: 
@@ -35,6 +35,6 @@ Head of Geodetic Support Department in army.
 * Belorusian State University
 * HTML&CSS course by UDEMY
 * JS and React course by UDEMY
-8. ### My English level 
+8. ## My English level 
 B2 English level according to EFSET standard:
 https://www.efset.org/cert/S2iwXJ
