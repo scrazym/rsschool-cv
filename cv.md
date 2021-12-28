@@ -5,9 +5,8 @@
 
 
 2. ## My contacts 
-email: mil.grof@mail.
----
-tel. +375298766003
+*email: mil.grof@mail.ru
+*tel. +375298766003
 
 
 3. ## About myself: 
@@ -22,7 +21,7 @@ I have B2 English level according to EFSET standard.
 * basic REACT
 * GIT, GitHub
 * VScode
-5. ## example of cod 
+5. ## Code example
 ```
 let i = 0;
 while (i < 3) { // выводит 0, затем 1, затем 2
