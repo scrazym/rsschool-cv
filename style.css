@@ -91,12 +91,14 @@ p {
     list-style: none;
 }
 
-.profile, .languges-section {
+.profile,
+.languges-section {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
+
 .logo-rss {
     height: 50px;
     width: 50px;
