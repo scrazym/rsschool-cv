@@ -1,3 +1,129 @@
 * {
-    text-decoration: underline;
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0;
+}
+.main-container {
+    background: #00ffff;
+}
+a {
+    text-decoration: none;
+}
+p {
+    margin: 0;
+    padding: 0 auto;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    height: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+
+header .container {
+    background-color: #31e2d6;
+    height: 50px;
+    border: 1px solid #0cee3d;
+}
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    
+}
+
+.nav-item a {
+    color: #829985;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+.nav-item a:hover {
+    color: #4d2323;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section {
+    width: 50%;
+    border: 1px solid #00ccff;
+}
+
+
+h1 {
+    text-transform: uppercase;
+}
+
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#profile {
+    width: 100%;
+}
+
+.img-profile {
+   
+    height: 210px;
+    width: 170px;
+ 
+}
+
+footer  {
+    background: #fff;
+    
+
+}
+
+.contacts {
+    list-style: none;
+}
+
+.profile, .languges-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.logo-rss {
+    height: 50px;
+    width: 50px;
+}
+
+.languges-level {
+    width: 300px;
+    height: 300px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #10F4E3;
+}
+
+.summary-descr {
+    text-align: center;
+}
+
+.logo-gitHub {
+    height: 50px;
+    width: 50px;
 }
